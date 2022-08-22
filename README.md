@@ -10,7 +10,7 @@ L’appel à projets spécifie que l’analyse doit être simple à comprendre p
 4) Élaborer une idée d’application. Identifier des arguments justifiant la faisabilité (ou non) de l’application à partir des données Open Food Facts.
 
 Idéée d'application : 
-Application BYJ (Biscuits-Yogurts-(fruit)Juices) 
+Application BYJ (Biscuits-Yogurts-(fruit)Juices) /n
 BUT : Aide pour le choix du goûter des enfants
 CONTEXTE : Recommandation du Programme National Nutrition Santé
 Goûter : 1 à 2 portions à choisir parmi
